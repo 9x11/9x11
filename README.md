@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br>Hi, I'm **Abdallah Halihil** — a high school student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**.  <br>I enjoy learning new technologies, building useful projects, and sharing knowledge with others.  <br><br>- 🎓 Currently studying Science Math (2ème Bac)  <br>- 💻 Interested in Python, Linux, and Cybersecurity  <br>- 📚 Learning more about AI and Cybersecurity Engineering  <br>- 🌍 Based in Tangier, Morocco  <br>
+## 👋 About Me<br>Hi, I'm **Abdallah ** — a high school student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**.  <br>I enjoy learning new technologies, building useful projects, and sharing knowledge with others.  <br><br>- 🎓 Currently studying Science Math (2ème Bac)  <br>- 💻 Interested in Python, Linux, and Cybersecurity  <br>- 📚 Learning more about AI and Cybersecurity Engineering  <br>- 🌍 Based in Tangier, Morocco  <br>
 
 
 ## 🌐 Socials:
